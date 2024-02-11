@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Luokkaharjoituksia1
+namespace Luokkaharjoituksia11
 {
     // A superclass for various pet animals
     class Pet
